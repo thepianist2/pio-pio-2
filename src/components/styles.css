@@ -1,0 +1,173 @@
+
+
+.header{
+    background-color:firebrick;
+    width: 100%;
+    height:150px;
+}
+
+.avatar-header{
+ 
+    float: left;
+    padding-top: 30px;
+    padding-right: 2% ;
+    width: 28%;
+    
+
+}
+.tipo-empresa{
+    color: cornsilk;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    float:left;
+    width: 33%;
+    font-size: 5em;
+    padding-top: 30px;
+    
+    
+}
+.logo-zona{
+    float: left;
+    width: 34%;
+}
+.logo{
+    width: 120px !important;
+    height: 120px !important;
+    border: 2px black solid;
+    margin-top: 15px;
+    margin-left: 1%;
+}
+
+.avatar{
+    width: 150px !important;
+    height: 150px !important;
+}
+
+
+.terminos{
+    padding-left: 5%;
+    color: blanchedalmond;
+    
+}
+.terminos-nav{
+    width: 47%;
+    float: left;
+    padding-left: 3%;
+}
+.marca{
+    width: 47%;
+    float: left;
+    color: blanchedalmond;
+    padding-left: 3%;
+}
+.footer{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+}
+.imput-pio{
+    max-width: 60%;
+    min-width: 50% !important;
+    padding-left: 3%;
+    
+    
+    
+}
+.flota{
+    float: left !important;
+}
+.padding-top{
+    padding-top: 3% !important;
+}
+.div-escribir-pio{
+
+width: 100%;
+height: 150px !important;
+margin-bottom: 15px;
+border-bottom: 1px gray solid;
+}
+.altura-centro{
+    height: 1300px;
+}
+.ancho100{
+    width: 100%!important;
+}.text-align{
+    text-align: center;
+}
+.registros{
+background-color:burlywood !important;
+}
+.back-corporativo{
+    background-color: firebrick !important;
+}
+.color-corporativo{
+    color: firebrick !important;
+}
+.border-corporativo{
+    border-color: firebrick !important;
+}
+.ancho49{
+    width: 49% !important;
+}
+.bordefino{
+    border: 2px black solid !important;
+}
+.margin-top{
+    margin-top: 20px !important;
+}
+.altura100{
+    height: 100px;
+}
+.altura300{
+    height: 300px;
+}
+.ancho30{
+    width: 30% !important;
+}
+.limpia{
+    clear: left;
+}
+.altura50{
+    height: 50px;
+}
+.altura150{
+    height: 150px;
+}
+.altura200{
+    height: 200px;
+}
+.borde{
+    margin-bottom: 15px;
+border: 0.001px #F0F0F0 solid !important;
+
+}
+.margen-arriba{
+    margin-top: 15px;
+}
+.ancho30{
+    width: 10% !important;
+}
+.margen-izquierda4{
+margin-left: 4% !important;
+}
+.margen-izquierda40{
+    margin-left: 40% !important;
+    }
+.margen-izquierda10{
+        margin-left: 10% !important;
+ }
+ .sin-margen-izquierda{
+     margin-left: 0% !important;
+ }
+ .sin-margen{
+     margin-left: 0%  !important;
+     
+ }
+ .pio{
+     width: 600px;
+     height: 300px;
+     border: #F0F0F0 1px solid;
+ }
+ .margen-derecha{
+    margin-right: 20% !important;
+ }
