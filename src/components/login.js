@@ -28,7 +28,7 @@ const Login = () => {
     if (content.ok === true) {
       setToken(content.token);
       setError(false);
-      navegar("/home");
+      navegar("/");
     } else {
       setError(true);
     }

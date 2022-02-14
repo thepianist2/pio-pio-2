@@ -1,8 +1,7 @@
 
 import './App.css';
 import Home from './components/home';
-import { BrowserRouter as Router, Routes, Route, Link, Redirect } from 'react-router-dom';
-import { Button } from '@mui/material';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import PerfilPropio from './components/perfilpropio';
 import PerfilAjeno from './components/perfilajeno';
 import Header from './components/header'
@@ -19,13 +18,9 @@ function App() {
   return (
     <div >
       <UserProvider>
-
-
-
         <Router>
           <Header></Header>
           <Routes>
-            <Route exact path="/home" element={<Home />} />
             <Route exact path="/" element={<Home />} />
             <Route exact path="/perfilpropio" element={<PerfilPropio />} />
             <Route exact path="/login" element={<Login />} />
@@ -36,7 +31,6 @@ function App() {
           </Routes>
           <Footer></Footer>
         </Router>
-
       </UserProvider>
     </div>
   );
